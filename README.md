@@ -8,11 +8,10 @@ professional brand statement
 * 
 
 ## Resume skills?
-Subject| Libraries
----|---
-> ## Python
 
-|||
+### Python
+
+Subject| Libraries
 ---|---
 Dataframe | Pandas, Polars, PySpark
 Visualization | Matplotlib, Vega-Altair, Seaborne
