@@ -1,6 +1,14 @@
-## Hi there 👋
+# ⚗️ Hi there, I'm Nate 🚲
 
-<!--
+## Who am I
+
+## Resume skills?
+
+## overview of work
+
+<!--## Hi there 👋
+
+
 **Nate-Sheibley/Nate-Sheibley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
