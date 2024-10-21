@@ -1,10 +1,27 @@
-# ⚗️ Hi there, I'm Nate 🚲
+# 🚲 Hi there, I'm Nate ⚗️
 
-## Who am I
+professional brand statement
+
+## Pinned Repo ToC
+* 
+* 
+* 
 
 ## Resume skills?
+Subject| Libraries
+---|---
+> ## Python
 
-## overview of work
+|||
+---|---
+Dataframe | Pandas, Polars, PySpark
+Visualization | Matplotlib, Vega-Altair, Seaborne
+Chemistry | RDKit
+
+> ## R
+|||
+---|---
+Dataframes | 
 
 <!--## Hi there 👋
 
