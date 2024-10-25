@@ -14,7 +14,7 @@ Dataframe | Pandas, Polars, PySpark, numpy
 Visualization | Matplotlib, Vega-Altair, Seaborne
 ML | scikit-learn, keras, tensorflow
 Database | SQLAlchemy, pymongo, psycopg2, sqlite3
-Web | BeautifulSoup4, Flask,
+Web | BeautifulSoup4, Flask
 Chemistry | RDKit
 
 ### Other Languages
