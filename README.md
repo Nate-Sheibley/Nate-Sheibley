@@ -2,6 +2,8 @@
 
 Data Scientist with a background in chemistry and laboratory management, holding a certificate from UC Berkeley's Data Analytics Boot Camp. I’m passionate about visualizing changes in experimental batches and creating automated visualization pipelines for quick insights. Committed to data integrity and advancing chemical and material sciences, I initiate goal-setting and prioritization discussions. With a can-do attitude, I embrace learning, development, and efficient task completion.
 
+Oct2024 - Current goal is improving my chemistry library experience and statisical literacy. 
+
 ---
 
 ## Languages and Libraries
@@ -23,7 +25,6 @@ Lang. | Libraries
 R | tidyverse
 JS | Leaflet, D3
 
-Current goal is improving my chemistry library experience and statisical literacy. 
 
 <!--
 
