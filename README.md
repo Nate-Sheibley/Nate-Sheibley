@@ -23,6 +23,8 @@ Lang. | Libraries
 R | tidyverse
 JS | Leaflet, D3
 
+Current goal is improving my chemistry library experience and statisical literacy. 
+
 <!--
 
 Skills 
