@@ -12,16 +12,18 @@ Oct2024 - Current goal is improving my chemistry library experience and statisic
 
 Subject| Libraries
 ---|---
-Dataframe | Pandas, Polars, PySpark, numpy
-Visualization | Matplotlib, Vega-Altair, Seaborne
+Data manipulation | Pandas, Polars, PySpark, numpy, SciPy
+Visualization | Matplotlib, Vega-Altair, Seaborn
 ML | scikit-learn, keras, tensorflow
 Database | SQLAlchemy, pymongo, psycopg2, sqlite3
-Web | BeautifulSoup4, Flask
+Web | BeautifulSoup4, Flask, Splinter
 Chemistry | RDKit
 
 ### Other Languages
 Lang. | Libraries
 ---|---
+SQL | postgreSQL, SQLite
+Terminal | Bash
 R | tidyverse
 JS | Leaflet, D3
 
